@@ -23,13 +23,16 @@ cd product-catalogue
 npm install
 ```
 
-## Running the App (Development)
+## Running the App (Development) locally
 
 ```bash
 npm run dev
 ```
 
 The app will be available at [http://localhost:3000].
+
+## Deployment 
+This application is deployed on Vercel and accessible here: [https://product-catalogue1.vercel.app/]
 
 ## License
 MIT
