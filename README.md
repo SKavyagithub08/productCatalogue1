@@ -1,3 +1,39 @@
+# Product Catalogue
+
+MacV Product Catalogue
+
+Build a simple Product Catalog Viewer using the [Fake Store API](https://fakestoreapi.com/), that can fetch, display, and navigate data in a clean componentized UI.
+
+## Features
+- Responsive Product Grid displaying image, name, price, and category
+- Category Filter
+- Product Detail Page
+
+## Prerequisites
+- Node.js
+- npm
+- next: 15.3.2
+- @tailwindcss/postcss: ^4.1.6
+
+## Installation
+
+```bash
+git clone https://github.com/SKavyagithub08/product-catalogue.git
+cd product-catalogue
+npm install
+```
+
+## Running the App (Development)
+
+```bash
+npm run dev
+```
+
+The app will be available at [http://localhost:3000].
+
+## License
+MIT
+
 This is a [Next.js](https://nextjs.org) project bootstrapped with [`create-next-app`](https://nextjs.org/docs/app/api-reference/cli/create-next-app).
 
 ## Getting Started
